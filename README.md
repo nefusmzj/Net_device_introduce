@@ -96,9 +96,9 @@
 
 虚拟网桥：相对于硬件网桥设备，虚拟网桥是在计算机操作系统中，将两块网卡设置桥接，这个桥接称为虚拟网桥，该网桥的两块网卡所在网段将连接在一起。
 
-**windows下桥接方法：**
+**windows下桥接方法：** 
 
-*<div align=center>![image](/image/bridge.png)*
+![image](/image/bridge.png)
 
 **linux下桥接的方法：**
 
